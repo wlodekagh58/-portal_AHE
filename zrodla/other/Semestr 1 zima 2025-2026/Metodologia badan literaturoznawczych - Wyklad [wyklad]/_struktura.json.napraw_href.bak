@@ -1,0 +1,282 @@
+{
+  "kurs_id": 86442,
+  "przedmiot": "Metodologia badań literaturoznawczych - Wykład [wykład]",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Metodologia badan literaturoznawczych - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449004"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Metodologia badan literaturoznawczych - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452124"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Metodologia badan literaturoznawczych - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452125"
+    },
+    {
+      "id": "section-4",
+      "tytul": "Etap 3",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Metodologia badan literaturoznawczych - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 3---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452126"
+    },
+    {
+      "id": "section-5",
+      "tytul": "Etap 4",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Metodologia badan literaturoznawczych - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 4---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452127"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449004",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Metodologia badań literaturoznawczych",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Metodologia badan literaturoznawczych - opis przedmiotu akt.---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1631880",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Metodologia badan literaturoznawczych - opis przedmiotu akt..pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Metodologia badan literaturoznawczych - opis przedmiotu akt.---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1631880",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452124",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Orientacje teoretyczne - M.H. Abrams",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/M. H. Abrams Orientacje teoretyczne---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1631881",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "M. H. Abrams Orientacje teoretyczne.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/M. H. Abrams Orientacje teoretyczne---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1631881",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Krystyna Pomorska - Teoria języka poetyckiego",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Krystyna Pomorska Teoria jezyka poetyckiego---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1640870",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Krystyna Pomorska Teoria jezyka poetyckiego.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Krystyna Pomorska Teoria jezyka poetyckiego---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1640870",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Maria Mayenowa - Rosyjskie propozycje teoretyczne",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Maria Renata Mayenowa - Rosyjskie propozycje teoretyczne---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1640871",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Maria Renata Mayenowa - Rosyjskie propozycje teoretyczne.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Maria Renata Mayenowa - Rosyjskie propozycje teoretyczne---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1640871",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Sergiusz Hessen, O strukturalizmie",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Sergiusz Hessen O strukturalizmie---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647958",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE Sergiusz Hessen O strukturalizmie.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Sergiusz Hessen O strukturalizmie---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647958",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "H. Markiewicz, Literatura w ujęciu semiotycznym",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Henryk Markiewicz Literatura w ujeciu semiotycznym---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1656183",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE Henryk Markiewicz Literatura w ujeciu semiotycznym.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Henryk Markiewicz Literatura w ujeciu semiotycznym---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1656183",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "B. Żyłko, Michaił Bachtin",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE B. Zylko Michail Bachtin---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661439",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE B. Zylko Michail Bachtin.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE B. Zylko Michail Bachtin---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661439",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "R. Nycz, Poetyka intertekstualna",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE R  Nycz Poetyka intertekstualna---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1666237",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE R  Nycz Poetyka intertekstualna.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE R  Nycz Poetyka intertekstualna---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1666237",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "E. Balcerzan Perspektywy \"poetyki odbioru\"",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE E. Balcerzan, Perspektywy poetyki odbioru---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1670427",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE E. Balcerzan, Perspektywy poetyki odbioru.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE E. Balcerzan, Perspektywy poetyki odbioru---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1670427",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "A. Burzyńska, M. P. Markowski, Postkolonializm",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE A. Burzynska M. P. Markowski Postkolonializm---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672957",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE A. Burzynska M. P. Markowski Postkolonializm.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE A. Burzynska M. P. Markowski Postkolonializm---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672957",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "E. Rybicka, Geopoetyka",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE E. Rybicka, Geopoetyka---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672958",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE E. Rybicka, Geopoetyka.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE E. Rybicka, Geopoetyka---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672958",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "H. White, Historiografia jako narracja",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Hayden White Historiografia jako narracja---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672960",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE Hayden White Historiografia jako narracja.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE Hayden White Historiografia jako narracja---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672960",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "R. Nycz, Dekonstrukcjonizm w teorii literatury",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE R Nycz Dekonstrukcjonizm w teorii literatury---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672962",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE R Nycz Dekonstrukcjonizm w teorii literatury.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE R Nycz Dekonstrukcjonizm w teorii literatury---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672962",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "S. Greenblat, W stronę poetyki kultury",
+          "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE S. Greenblatt W strone poetyki kultury---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672963",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "AHE S. Greenblatt W strone poetyki kultury.pdf",
+              "href": "/zrodla/merytoryczne/Metodologia badan literaturoznawczych - Wyklad [wyklad]/Semestr 1 zima 2025-2026/AHE S. Greenblatt W strone poetyki kultury---Metodologia badan literaturoznawczych - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1672963",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452125",
+      "aktywnosci": []
+    },
+    {
+      "id": "section-4",
+      "tytul": "Etap 3",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452126",
+      "aktywnosci": []
+    },
+    {
+      "id": "section-5",
+      "tytul": "Etap 4",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=452127",
+      "aktywnosci": []
+    }
+  ],
+  "aktualny": false
+}

@@ -1,0 +1,865 @@
+{
+  "kurs_id": 86543,
+  "przedmiot": "Literatura powszechna XX i XXI wieku - Wykład [wykład]",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449105"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451986"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451987"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449105",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Powitanie---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1620536",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "TREŚCI PROGRAMOWE",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\TRESCI PROGRAMOWE---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1631559",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "BIBLIOGRAFIA",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\BIBLIOGRAFIA---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1631564",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "WA248_79647_P-I-2524_czaplin-literatura_o.pdf",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/WA248_79647_P-I-2524_czaplin-literatura_o---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://bazhum.muzhp.pl/media/files/ER(R)GO_Teoria_Literatura_Kultura/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)-s123-137/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)-s123-137.pdf",
+              "href": "https://bazhum.muzhp.pl/media/files/ER(R)GO_Teoria_Literatura_Kultura/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)-s123-137/ER(R)GO_Teoria_Literatura_Kultura-r2007-t-n2_(15)-s123-137.pdf",
+              "href_moodle": null,
+              "dzieci": [],
+              "dziala": false
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://repozytorium.umk.pl/bitstream/handle/item/4530/AE.2014.010%2CSadkowski.pdf?sequence=1",
+              "href": "https://repozytorium.umk.pl/bitstream/handle/item/4530/AE.2014.010%2CSadkowski.pdf?sequence=1",
+              "href_moodle": null,
+              "dzieci": [],
+              "dziala": false
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://cejsh.icm.edu.pl › Magdalena_Horodecka",
+              "href": "https://cejsh.icm.edu.xn--pl%20%20magdalena_horodecka%0D-0j6q/",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 1",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1644701",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 1 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 1 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5295293",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 2",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 2---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1644703",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 2 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 2 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5295509",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 16.11.2025r., godz. 11.00 - 12.30",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 16.11.2025r., godz. 11.00 - 12.30---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1649436",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 16.11.2025r., godz. 11.00 - 12.30 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 16.11.2025r., godz. 11.00 - 12.30 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5326575",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Konsultacje 7 grudnia 2025 r., godz. 11.30-12.15",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Konsultacje 7 grudnia 2025 r., godz. 11.30-12.15---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1665286",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-07-12-2025-r-11-30-12-15/75420b6c82612fdf9fd264006932b444",
+              "href": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-07-12-2025-r-11-30-12-15/75420b6c82612fdf9fd264006932b444",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Konsultacje",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Konsultacje---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1665302",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-18-01-2026-r-12-15-13-00/720b2480cd5f94a2ae4a83006932b629",
+              "href": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-18-01-2026-r-12-15-13-00/720b2480cd5f94a2ae4a83006932b629",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 14.12.2025r, godz. 13.30-15.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 14.12.2025r, godz. 13.30-15.00---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1667205",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 14.12.2025r, godz. 13.30-15.00 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 14.12.2025r, godz. 13.30-15.00 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5372890",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 12.03.2022.",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 12.03.2022.---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674749",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 12.03.2022. - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 12.03.2022. - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3545653",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 2",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 2---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674750",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 2 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 2 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3524705",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 3",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 3---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674751",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 3 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 3 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3540713",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 4",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 4---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674752",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 4 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 4 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3558495",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 5",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 5---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674753",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 5 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 5 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3575369",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 5 - część II",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 5 - czesc II---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674754",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 5 - czesc II - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 5 - czesc II - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3575753",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 6",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 6---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674755",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 6 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 6 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3592220",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 3",
+          "href": "/zrodla/other/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/podstrony/Wyklad 3---https---platforma.ahe.lodz.pl-mod-clickmeeting-view.php-id=1674756.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674756",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 3 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 3 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3581369",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 8",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 8---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674757",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 8 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 8 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3633895",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 21.05.2022.",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 21.05.2022.---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674758",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 21.05.2022. - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 21.05.2022. - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3696031",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 10",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 10---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674759",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 10 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 10 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3659308",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 11",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 11---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674760",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 11 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 11 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3676049",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 2.06. godz. 10.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad 2.06. godz. 10.00---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674761",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 2.06. godz. 10.00 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 2.06. godz. 10.00 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3721090",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład 5",
+          "href": "/zrodla/other/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/podstrony/Wyklad 5---https---platforma.ahe.lodz.pl-mod-clickmeeting-view.php-id=1674762.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674762",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 5 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 5 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=3338648",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 11.12.2024",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 11.12.2024---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674763",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 11.12.2024 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 11.12.2024 - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=4914477",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 12.01.",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 12.01.---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1674764",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 12.01. - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 12.01. - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=4943961",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Konsultacja",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Konsultacja---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1676133",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Konsultacja - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Konsultacja - Video 1---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5407849",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451986",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Postmodernizm - pomoce dydaktyczne",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Postmodernizm - pomoce dydaktyczne---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1645091",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "264762133_1714800975379002_5592302715555510790_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/264762133_1714800975379002_5592302715555510790_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "265393395_632387241509483_4422037797347320540_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/265393395_632387241509483_4422037797347320540_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "266309451_386604583236752_5215943345718321450_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/266309451_386604583236752_5215943345718321450_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "266681855_274077824705892_2762862853219195203_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/266681855_274077824705892_2762862853219195203_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "266998927_609360773687270_3937980972018859575_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/266998927_609360773687270_3937980972018859575_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267190675_367357568492087_3891344445892368683_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267190675_367357568492087_3891344445892368683_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267396853_447857476806271_406232122207098599_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267396853_447857476806271_406232122207098599_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267537615_913761686007996_1151104860561748059_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267537615_913761686007996_1151104860561748059_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267611005_605249223869114_7368537741719620_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267611005_605249223869114_7368537741719620_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267682036_500043477999846_4386796007315546918_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267682036_500043477999846_4386796007315546918_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267912815_1106440616840698_9206154211910545385_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267912815_1106440616840698_9206154211910545385_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267933483_289549056339104_6667127059337724063_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267933483_289549056339104_6667127059337724063_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267979360_413153523891471_6734835173152967768_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267979360_413153523891471_6734835173152967768_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "268374486_697240931661678_5496707993100362548_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/268374486_697240931661678_5496707993100362548_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "268804787_965306844192603_479951757942898396_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/268804787_965306844192603_479951757942898396_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269053672_432301208608553_6156529969262439775_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269053672_432301208608553_6156529969262439775_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269165835_1823393341382967_3734142522965290899_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269165835_1823393341382967_3734142522965290899_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269679484_337789051495636_1273103608573395796_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269679484_337789051495636_1273103608573395796_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269716534_675076626987707_1989052238489290772_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269716534_675076626987707_1989052238489290772_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269717310_322538229729003_1091033613089372063_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269717310_322538229729003_1091033613089372063_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269741418_2110478099121345_3269844179790454705_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269741418_2110478099121345_3269844179790454705_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269808070_4849911635102890_2640564067506481625_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269808070_4849911635102890_2640564067506481625_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269877807_355305589607879_7570674645390126587_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269877807_355305589607879_7570674645390126587_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269992589_1008305649720604_871098880878239120_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269992589_1008305649720604_871098880878239120_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269999931_378037867425345_3670293969339510237_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269999931_378037867425345_3670293969339510237_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270031674_237244651762039_1300637419647183665_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270031674_237244651762039_1300637419647183665_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270052693_1046030995957029_731324437093852067_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270052693_1046030995957029_731324437093852067_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270074751_331956988565009_5800856103264624337_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270074751_331956988565009_5800856103264624337_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270618316_4610280052359135_1620935074510570365_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (5)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270618316_4610280052359135_1620935074510570365_n.jpg",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451987",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Beckett - materiały dydaktyczne",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Beckett - materialy dydaktyczne---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1645092",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "267378492_566930374498223_6421624530034643855_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267378492_566930374498223_6421624530034643855_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "268445642_921314601862190_125512251562996455_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/268445642_921314601862190_125512251562996455_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269362397_4403233379803560_760074345293216265_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269362397_4403233379803560_760074345293216265_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269372934_5057826510928410_451187866607628907_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269372934_5057826510928410_451187866607628907_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269679490_1046832492533396_8854055368741472310_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269679490_1046832492533396_8854055368741472310_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269713175_224651459849370_9015458036629853737_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269713175_224651459849370_9015458036629853737_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269719434_878765556149555_4514363308675166812_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269719434_878765556149555_4514363308675166812_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269744718_2775080332797102_4506872737368441569_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269744718_2775080332797102_4506872737368441569_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269872733_224767303169345_2925683302808037567_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269872733_224767303169345_2925683302808037567_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270060028_1027020971486731_3070771837593697407_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki (4)---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270060028_1027020971486731_3070771837593697407_n.jpg",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "M. Lowry - materiały dydaktyczne",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura powszechna XX i XXI wieku - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\M. Lowry - materialy dydaktyczne---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1645093",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "265524936_1018902325728413_5225163089127449001_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/265524936_1018902325728413_5225163089127449001_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267378498_3127511544185495_919910414348800580_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267378498_3127511544185495_919910414348800580_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267647863_972662473626619_6782736778744669503_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267647863_972662473626619_6782736778744669503_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "267982717_3100563363495016_807674961636662263_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/267982717_3100563363495016_807674961636662263_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "268323169_1271455163265535_5253555652365830711_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/268323169_1271455163265535_5253555652365830711_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269415726_960685501230235_2186321769914088633_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269415726_960685501230235_2186321769914088633_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269604412_603599630858439_5984522854770590914_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269604412_603599630858439_5984522854770590914_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269642754_630430154958506_3126304269975113712_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269642754_630430154958506_3126304269975113712_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269651679_452922329815429_8236519896066529338_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269651679_452922329815429_8236519896066529338_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269671195_453315939528727_2113929851607128185_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269671195_453315939528727_2113929851607128185_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269693906_518981145857729_8217525589553090737_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269693906_518981145857729_8217525589553090737_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269710300_3122320174671526_5905208087244101917_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269710300_3122320174671526_5905208087244101917_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269766521_1106924233390615_2851280145782866072_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269766521_1106924233390615_2851280145782866072_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269775070_470841504479667_6863310721398651321_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269775070_470841504479667_6863310721398651321_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269784578_467997464679288_3087328187836211938_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269784578_467997464679288_3087328187836211938_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269797753_421666733031412_1245851510211298132_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269797753_421666733031412_1245851510211298132_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "269812545_345649983699503_7805105586809749048_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/269812545_345649983699503_7805105586809749048_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270079674_279435524217194_8414610717748394849_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270079674_279435524217194_8414610717748394849_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270404534_3270958756562507_5279622063274791213_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270404534_3270958756562507_5279622063274791213_n.jpg",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "270478720_487259549677578_8980283611086766185_n.jpg",
+              "href": "/zrodla/merytoryczne/Literatura powszechna XX i XXI wieku - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Pliki---Literatura powszechna XX i XXI wieku - Wyklad [wyklad]---Semestr 1 zima 2025-2026/270478720_487259549677578_8980283611086766185_n.jpg",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aktualny": false
+}

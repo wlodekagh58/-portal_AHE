@@ -1,0 +1,62 @@
+{
+  "1e2d1ed9db69df6d": {
+    "rodzic": "Współczesne postawy wobec języka",
+    "dziecko": "Wspolczesne postawy wobec jezyka.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "tylko diakrytyki, reg 1"
+  },
+  "3b1f65612b2edeb9": {
+    "rodzic": "Różne klasyfikacje odmian współczesnej polszczyzny.",
+    "dziecko": "stylistyka_wyklad 3.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "inny temat stylistyka, reg 8"
+  },
+  "58a143ae20a83d9c": {
+    "rodzic": "Zróżnicowanie polszczyzny współczesnej",
+    "dziecko": "stylistyka_wyklad 3.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "inny temat stylistyka, reg 8"
+  },
+  "4bcfd458bdacce74": {
+    "rodzic": "Kultura języka wraz z podstawowymi terminami",
+    "dziecko": "Kultura jezyka polskiego.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "ten sam temat kultury języka, reg 1"
+  },
+  "74a8bf2da507d74d": {
+    "rodzic": "Typologia",
+    "dziecko": "stylistyka_wyklad 4.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "Typologia pusta, reg 7"
+  },
+  "e7a2fc02b05e31b6": {
+    "rodzic": "Styl urzędowy",
+    "dziecko": "Styl urzedowy_M. Wojtczak.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "tylko nazwisko autora, reg 6"
+  },
+  "1864dedd68909e53": {
+    "rodzic": "styl naukowy",
+    "dziecko": "Styl naukowy_S. Gajda.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "tylko nazwisko autora, reg 6"
+  },
+  "9db820a40afc8843": {
+    "rodzic": "styl artystyczny",
+    "dziecko": "Styl artystyczny_R. Handke.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "tylko nazwisko autora, reg 6"
+  },
+  "3aad29851d646e17": {
+    "rodzic": "Rodzaje stylizacji",
+    "dziecko": "stylistyka_wyklad 5(5).pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "inny temat stylistyka, reg 8"
+  },
+  "a9b6f72108da290e": {
+    "rodzic": "Styl potoczny",
+    "dziecko": "Styl potoczny_J. Bartminski.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 6: samo nazwisko autora"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "712ad898a9f57f7c": {
+    "rodzic": "Test na profil motywacyjny.",
+    "dziecko": "DNA Profil motywacyjny- test - Tamary Lowe.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8 — DNA, autor Lowe: nadwyżka"
+  },
+  "c30e33c585290299": {
+    "rodzic": "Opis typów motywacyjnych.",
+    "dziecko": "DNA - opis typow motywacyjnych.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 6, DNA odjęte, nic nowego"
+  },
+  "5743319cfcef0e20": {
+    "rodzic": "Przeczytaj! Metoda Worst Case Scenario.",
+    "dziecko": "Metoda Worst Case Scenario.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 1 — nazwy identyczne po sanityzacji, różnią się tylko wielkością liter, spacją i rozszerzeniem"
+  },
+  "914a65e4b8ac81a7": {
+    "rodzic": "Przeczytaj! Obszary, będące podstawą do działania w przedsięwzięciu.",
+    "dziecko": "Obszary, bedace podstawa do dzialania w przedsiewzieciu..pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 1, różnice tylko w diakrytykach"
+  },
+  "d4a6acce3a1f7942": {
+    "rodzic": "Przeczytaj! Zmiana.",
+    "dziecko": "Zmiana.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 2"
+  }
+}

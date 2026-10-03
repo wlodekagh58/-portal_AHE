@@ -1,0 +1,20 @@
+{
+  "c0e1c11823c846b5": {
+    "rodzic": "przyroda romantyków",
+    "dziecko": "pamietnik_literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1928-t25.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: plik inny temat (pamiętnik literacki)"
+  },
+  "b161e1e1c53492f1": {
+    "rodzic": "Paradygmat romantyczny",
+    "dziecko": "articles-63660955.pdf.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 4: sam kod articles-63660955"
+  },
+  "6c7354c1772f14ce": {
+    "rodzic": "Przełom pozytywistyczny",
+    "dziecko": "WA248_71867_P-I-2524_markiewicz-spor_o.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: plik autor i \"spór o\" poza A"
+  }
+}

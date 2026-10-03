@@ -1,0 +1,331 @@
+{
+  "kurs_id": 3422,
+  "przedmiot": "Projekt własnego przedsięwzięcia",
+  "semestr": "Semestr nieznany",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "Sekcja ogólna",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Sekcja ogolna---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20346"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Projekt własnego przedsięwzięcia — skrypt",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Projekt wlasnego przedsiewziecia — skrypt---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20347"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Zadania",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zadania---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20348"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Zagadnienia do dyskusji",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zagadnienia do dyskusji---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20349"
+    },
+    {
+      "id": "section-4",
+      "tytul": "Dokumenty i materiały dodatkowe",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Dokumenty i materialy dodatkowe---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20350"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "Sekcja ogólna",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20346",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Projekt własnego przedsięwzięcia — komplet materiałów dydaktycznych",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Projekt wlasnego przedsiewziecia — komplet materialow dydaktycznych---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/folder/view.php?id=80702",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_1.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_1---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_2.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_2---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_3.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_3---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_4.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_4---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Modul_1_Praca_projektowa_-_podstawowe_zalozenia.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_1_Praca_projektowa_-_podstawowe_zalozenia---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Modul_2_Analiza_strategiczna_i_plan_marketingowy.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_2_Analiza_strategiczna_i_plan_marketingowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Modul_3_Plan_organizacji_i_zarzadzania.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_3_Plan_organizacji_i_zarzadzania---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Modul_4_Plan_finansowy.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_4_Plan_finansowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "projekt_wlasnego_przedsiewziecia_zadania_modul_2.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/projekt_wlasnego_przedsiewziecia_zadania_modul_2---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Projekt własnego przedsięwzięcia — skrypt",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20347",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 1. Praca projektowa — podstawowe założenia",
+          "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_1_Praca_projektowa_-_podstawowe_zalozenia---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80703",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_1_Praca_projektowa_-_podstawowe_zalozenia.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_1_Praca_projektowa_-_podstawowe_zalozenia---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80703",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wstęp 1. Proces uruchamiania działalności gospodar...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Wstep 1. Proces uruchamiania dzialalnosci gospodar...---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=80704",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 2. Analiza strategiczna i plan marketingowy",
+          "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_2_Analiza_strategiczna_i_plan_marketingowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80705",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_2_Analiza_strategiczna_i_plan_marketingowy.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_2_Analiza_strategiczna_i_plan_marketingowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80705",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wstęp 1. Proces formułowania strategii 2. Wybór st...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Wstep 1. Proces formulowania strategii 2. Wybor st...---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=80706",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 3. Plan organizacji i zarządzania",
+          "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_3_Plan_organizacji_i_zarzadzania---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80707",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_3_Plan_organizacji_i_zarzadzania.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_3_Plan_organizacji_i_zarzadzania---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80707",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wstęp 1. Decyzja o wyborze lokalizacji 2. Organiza...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Wstep 1. Decyzja o wyborze lokalizacji 2. Organiza...---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=80708",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 4. Plan finansowy",
+          "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_4_Plan_finansowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80709",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_4_Plan_finansowy.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Modul_4_Plan_finansowy---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80709",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wstęp 1. Założenia planu finansowego 2. Nakłady in...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Wstep 1. Zalozenia planu finansowego 2. Naklady in...---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=80710",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Zadania",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20348",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie do modułu 1",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zadanie do modulu 1---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80711",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Zadania do modułu 2",
+          "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/projekt_wlasnego_przedsiewziecia_zadania_modul_2---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80712",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "projekt_wlasnego_przedsiewziecia_zadania_modul_2.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/projekt_wlasnego_przedsiewziecia_zadania_modul_2---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=80712",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie do modułu 3",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zadanie do modulu 3---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80713",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie do modułu 4",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zadanie do modulu 4---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80714",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Załączniki do zadań",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zalaczniki do zadan---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/folder/view.php?id=80715",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_1.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_1---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_2.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_2---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_3.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_3---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Zalacznik_modul_4.pdf",
+              "href": "/zrodla/merytoryczne/Projekt wlasnego przedsiewziecia/Seminaria i kursy dodatkowe/Zalacznik_modul_4---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.pdf",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Zagadnienia do dyskusji",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20349",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Zagadnienia do dyskusji",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Zagadnienia do dyskusji---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80717",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "tytul": "Dokumenty i materiały dodatkowe",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=20350",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Literatura uzupełniająca",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Literatura uzupelniajaca---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80719",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Najważniejsze zagadnienia",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Projekt wlasnego przedsiewziecia\\Seminaria i kursy dodatkowe\\podstrony\\Najwazniejsze zagadnienia---Projekt wlasnego przedsiewziecia---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=80721",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    }
+  ],
+  "grupa": "Seminaria i kursy dodatkowe",
+  "aktualny": false
+}

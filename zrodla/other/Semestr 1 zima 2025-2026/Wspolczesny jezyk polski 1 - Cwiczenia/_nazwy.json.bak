@@ -1,0 +1,26 @@
+{
+  "484f3ab5463f9ab5": {
+    "rodzic": "Współczesny język polski - język polski na tle innych języków",
+    "dziecko": "Genetyczne pochodzenie jezykow.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "inny temat genetyczne, reg 8"
+  },
+  "01cf672d69027bf9": {
+    "rodzic": "Zagadnienia zróżnicowania języka",
+    "dziecko": "Zagadnienia zroznicowania jezyka.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "tylko diakrytyki, reg 1"
+  },
+  "37ad5b45ac474614": {
+    "rodzic": "Założenia reformy ortograficznej",
+    "dziecko": "Materialy szkoleniowe- reforma ortograficzna.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "słowo generyczne Materiały, reg 6"
+  },
+  "aa15f440bd5caec4": {
+    "rodzic": "Polskie słowniki powojenne",
+    "dziecko": "Slowniki- Wiedza o wspolczesnym jezyku polskim.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "nowy temat Wiedza o języku, reg 8"
+  }
+}

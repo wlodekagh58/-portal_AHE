@@ -1,0 +1,197 @@
+{
+  "kurs_id": 3355,
+  "przedmiot": "Ochrona własności intelektualnej",
+  "semestr": "Semestr nieznany",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "Wstęp",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Wstep---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19883"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Ochrona własności intelektualnej — skrypt",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Ochrona wlasnosci intelektualnej — skrypt---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19884"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Zadania",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Zadania---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19885"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Zagadnienia do dyskusji",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Zagadnienia do dyskusji---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19886"
+    },
+    {
+      "id": "section-4",
+      "tytul": "Dokumenty i materiały dodatkowe",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Dokumenty i materialy dodatkowe---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19887"
+    },
+    {
+      "id": "section-5",
+      "tytul": "Adresy polecanych stron WWW",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Adresy polecanych stron WWW---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19888"
+    },
+    {
+      "id": "section-6",
+      "tytul": "Ćwiczenia samosprawdzające",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Cwiczenia samosprawdzajace---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19889"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "Wstęp",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19883",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Opracowanie materiału",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Opracowanie materialu---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=1679217",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Ochrona własności intelektualnej — skrypt",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19884",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 1. Informacje podstawowe. Prawo autorskie i prawa pokrewne",
+          "href": "/zrodla/merytoryczne/Ochrona wlasnosci intelektualnej/Seminaria i kursy dodatkowe/Modul_1_Informacje_podstawowe._Prawo_autorskie_i_prawa_pokrewne---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=79274",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_1_Informacje_podstawowe._Prawo_autorskie_i_prawa_pokrewne.pdf",
+              "href": "/zrodla/merytoryczne/Ochrona wlasnosci intelektualnej/Seminaria i kursy dodatkowe/Modul_1_Informacje_podstawowe._Prawo_autorskie_i_prawa_pokrewne---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=79274",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "1. Trochę historii 2. Pojęcie prawa własności in...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\1. Troche historii 2. Pojecie prawa wlasnosci in...---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=79275",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Moduł 2. Prawo własności przemysłowej",
+          "href": "/zrodla/merytoryczne/Ochrona wlasnosci intelektualnej/Seminaria i kursy dodatkowe/Modul_2_Prawo_wlasnosci_przemyslowej---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=79276",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Modul_2_Prawo_wlasnosci_przemyslowej.pdf",
+              "href": "/zrodla/merytoryczne/Ochrona wlasnosci intelektualnej/Seminaria i kursy dodatkowe/Modul_2_Prawo_wlasnosci_przemyslowej---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=79276",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "1. Własność przemysłowa — pojęcie oraz źródła pr...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\1. Wlasnosc przemyslowa — pojecie oraz zrodla pr...---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=79277",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Zadania",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19885",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Zadanie---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=79278",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Zagadnienia do dyskusji",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19886",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Zagadnienia do dyskusji",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Zagadnienia do dyskusji---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=79280",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "tytul": "Dokumenty i materiały dodatkowe",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19887",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Literatura",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Literatura---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=79282",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "http://www.e-mentor.edu.pl/artykul_v2.php?numer=8&id=120",
+              "href": "http://www.e-mentor.edu.pl/artykul_v2.php?numer=8&id=120",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Najważniejsze zagadnienia",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Ochrona wlasnosci intelektualnej\\Seminaria i kursy dodatkowe\\podstrony\\Najwazniejsze zagadnienia---Ochrona wlasnosci intelektualnej---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=79284",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "tytul": "Adresy polecanych stron WWW",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19888",
+      "aktywnosci": []
+    },
+    {
+      "id": "section-6",
+      "tytul": "Ćwiczenia samosprawdzające",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=19889",
+      "aktywnosci": []
+    }
+  ],
+  "grupa": "Seminaria i kursy dodatkowe",
+  "aktualny": false
+}

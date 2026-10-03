@@ -1,0 +1,139 @@
+{
+  "kurs_id": 86619,
+  "przedmiot": "Dezinformacja i weryfikacja informacji - Ćwiczenia",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449181"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450868"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450869"
+    },
+    {
+      "id": "section-4",
+      "tytul": "Etap 3",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Etap 3---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450870"
+    },
+    {
+      "id": "section-5",
+      "tytul": "Etap 4",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Etap 4---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450871"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449181",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Powitanie---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1619960",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Spotkania",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Spotkania---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/choice/view.php?id=1647862",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Głosowanie na godzinę zajęć (Niedziela 9 Listopada):",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Glosowanie na godzine zajec (Niedziela 9 Listopada)---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/choice/view.php?id=1649779",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450868",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Prezentacja",
+          "href": "/zrodla/merytoryczne/Dezinformacja i weryfikacja informacji - Cwiczenia/Semestr 1 zima 2025-2026/DEZINFORMACJA I WERYFIKACJA INFORMACJI 1---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668262",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "DEZINFORMACJA I WERYFIKACJA INFORMACJI 1.pdf",
+              "href": "/zrodla/merytoryczne/Dezinformacja i weryfikacja informacji - Cwiczenia/Semestr 1 zima 2025-2026/DEZINFORMACJA I WERYFIKACJA INFORMACJI 1---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668262",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450869",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Ćwiczenia",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Cwiczenia---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1651477",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Dezinformacja i weryfikacja informacji - Cwiczenia/Semestr 1 zima 2025-2026/Cwiczenia - Video 1---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5326720",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Spotkanie 19.12 godz. 18:00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Spotkanie 19.12 godz. 18-00---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1667843",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "tytul": "Etap 3",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450870",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Dezinformacja i weryfikacja informacji - Cwiczenia\\Semestr 1 zima 2025-2026\\podstrony\\Zadanie---Dezinformacja i weryfikacja informacji - Cwiczenia---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1668258",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "tytul": "Etap 4",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=450871",
+      "aktywnosci": []
+    }
+  ],
+  "aktualny": false
+}

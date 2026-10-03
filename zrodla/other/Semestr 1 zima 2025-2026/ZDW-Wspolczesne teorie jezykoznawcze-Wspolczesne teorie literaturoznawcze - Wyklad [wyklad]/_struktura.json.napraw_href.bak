@@ -1,0 +1,318 @@
+{
+  "kurs_id": 89001,
+  "przedmiot": "ZDW:Współczesne teorie językoznawcze/Współczesne teorie literaturoznawcze - Wykład [wykład]",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459678"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459687"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459688"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459678",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Powitanie---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1647060",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Dzień dobry, nazywam się Eugeniusz Pańkow.Przedmio...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Dzien dobry, nazywam sie Eugeniusz Pankow.Przedmio...---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1647504",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459687",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Forum merytoryczne",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Forum merytoryczne---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1647914",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 1. „Zwroty” badawcze wobec przełomów paradygmatycznych w najnowszym literaturoznawstwie polskim",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 1. „Zwroty” badawcze wobec przelomow paradygmatycznych w najnowszym literaturoznawstwie polskim---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647894",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 1. „Zwroty” badawcze wobec przelomow paradygmatycznych w najnowszym literaturoznawstwie polskim.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 1. „Zwroty” badawcze wobec przelomow paradygmatycznych w najnowszym literaturoznawstwie polskim---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647894",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 3. Koncepcja autora i narratora w teorii poststrukturalistycznej",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 3. Koncepcja autora i narratora w teorii poststrukturalistycznej---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647903",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 3. Koncepcja autora i narratora w teorii poststrukturalistycznej.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 3. Koncepcja autora i narratora w teorii poststrukturalistycznej---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647903",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 5.Teoria interpretacji. Współczesne nauki interpretatywne o charakterze interdyscyplinarnym",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 5.Teoria interpretacji. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647907",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 5.Teoria interpretacji. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 5.Teoria interpretacji. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1647907",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Geopoetyka. Problem artykulacji przestrzeni w literaturze (zjazd 9.11.2025)",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Geopoetyka. Problem artykulacji przestrzeni w literaturze---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1656098",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Geopoetyka. Problem artykulacji przestrzeni w literaturze.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Geopoetyka. Problem artykulacji przestrzeni w literaturze---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1656098",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "link",
+          "etykieta": "Poezja",
+          "href": "https://www.filmweb.pl/video/Zwiastun/Poezja+Zwiastun+nr+1+angielski-24078",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1656102",
+          "dzieci": []
+        },
+        {
+          "typ": "link",
+          "etykieta": "La grande bellezza",
+          "href": "https://www.filmweb.pl/film/Wielkie+pi%C4%99kno-2013-658317",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1656103",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Dom rodzinny jako miejsce mitobiograficzne Zbigniewa Żakiewicza",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/PDF---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661469",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "PDF.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/PDF---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661469",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład_22.11.25 godz. 12:00_Pańkow",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad_22.11.25 godz. 12-00_Pankow---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1656203",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad_22.11.25 godz. 12-00_Pankow - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad_22.11.25 godz. 12-00_Pankow - Video 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5337942",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład_29.11.25 godz. 13:00_Pańkow",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wyklad_29.11.25 godz. 13-00_Pankow---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1660833",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad_29.11.25 godz. 13-00_Pankow - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad_29.11.25 godz. 13-00_Pankow - Video 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5349721",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Dzieła sztuki jako reprezentacja współczesnych modeli emocji",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar prezentacja__Dziela_sztuki_jako_reprezentacja_wspolczesnych_modeli_emocji (2)---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1663569",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar prezentacja__Dziela_sztuki_jako_reprezentacja_wspolczesnych_modeli_emocji (2).pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar prezentacja__Dziela_sztuki_jako_reprezentacja_wspolczesnych_modeli_emocji (2)---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1663569",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=459688",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 6. Fikcja. Pojęcie fikcjonalności",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 6.Fikcja. Pojecie fikcjonalnosci---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661461",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 6.Fikcja. Pojecie fikcjonalnosci.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 6.Fikcja. Pojecie fikcjonalnosci---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661461",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 7. Kulturowa teoria literatury",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 7. Kulturowa teoria literatury---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661462",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 7. Kulturowa teoria literatury.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 7. Kulturowa teoria literatury---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661462",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 8. Autotematyzm",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 8. Autotematyzm---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661463",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 8. Autotematyzm.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 8. Autotematyzm---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661463",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 9. Autobiografizm",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 9. Autobiografizm---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661465",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 9. Autobiografizm.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Wyklad 9. Autobiografizm---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661465",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 10. Dyskurs postkolonialny",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Dyskurs postkolonialny (1)---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1670385",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Dyskurs postkolonialny (1).pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Dyskurs postkolonialny (1)---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1670385",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Kategoria codzienności (zjazd)",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Kategoria codziennosci. (zjazd)pdf---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1674299",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Kategoria codziennosci. (zjazd)pdf.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Kategoria codziennosci. (zjazd)pdf---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1674299",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Współczesne teorie literaturoznawcze. Test podsumowujący. 25.01.2026 g. 10.00-22.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wspolczesne teorie literaturoznawcze. Test podsumowujacy. 25.01.2026 g. 10.00-22.00---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/quiz/view.php?id=1676779",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Współczesne teorie literaturoznawcze. Test poprawkowy. 01.02.2026 g. 8.00-20.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Wspolczesne teorie literaturoznawcze. Test poprawkowy. 01.02.2026 g. 8.00-20.00---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/quiz/view.php?id=1678866",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    }
+  ],
+  "aktualny": false
+}

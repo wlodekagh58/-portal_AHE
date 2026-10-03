@@ -1,0 +1,187 @@
+{
+  "kurs_id": 93522,
+  "przedmiot": "Literatura polska romantyzmu i pozytywizmu-analiza - Wykład [wykład]",
+  "semestr": "Semestr 2 lato 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\ZACZYNAMY!---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467234"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Etap 1---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470920"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Etap 2---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470921"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467234",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Powitanie---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1685494",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Cele przedmiotu",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Cele przedmiotu---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1696922",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "TREŚCI PROGRAMOWE",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\TRESCI PROGRAMOWE---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1696923",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Bibliografia",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Bibliografia---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1696926",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "WA248_86055_P-I-30_martuszewska-klopoty_o.pdf",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/WA248_86055_P-I-30_martuszewska-klopoty_o---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "link",
+              "etykieta": "http://nplp.pl/kolekcja/atlas-romantyzmu",
+              "href": "http://nplp.pl/kolekcja/atlas-romantyzmu",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470920",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar, 07.03.2026 r., godz. 11.00-12.30",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Webinar, 07.03.2026 r., godz. 11.00-12.30---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1711258",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar, 07.03.2026 r., godz. 11.00-12.30 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Webinar, 07.03.2026 r., godz. 11.00-12.30 - Video 1---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5479752",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład, 21.03.2026r., godz. 15.45",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Wyklad, 21.03.2026r., godz. 15.45---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1721081",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad, 21.03.2026r., godz. 15.45 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad, 21.03.2026r., godz. 15.45 - Video 1---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5503068",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Wykład, 22.03.2026r., godz. 13.15",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Wyklad, 22.03.2026r., godz. 13.15---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1721083",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad, 22.03.2026r., godz. 13.15 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad, 22.03.2026r., godz. 13.15 - Video 1---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5503794",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "przyroda romantyków",
+          "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/pamietnik_literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1928-t25---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723297",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "pamietnik_literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1928-t25.pdf",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/pamietnik_literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1928-t25---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723297",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470921",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Paradygmat romantyczny",
+          "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/articles-63660955.pdf---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723298",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "articles-63660955.pdf.pdf",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/articles-63660955.pdf---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723298",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Przełom pozytywistyczny",
+          "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/WA248_71867_P-I-2524_markiewicz-spor_o---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723299",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "WA248_71867_P-I-2524_markiewicz-spor_o.pdf",
+              "href": "/zrodla/merytoryczne/Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]/Semestr 2 lato 2025-2026/WA248_71867_P-I-2524_markiewicz-spor_o---Literatura polska romantyzmu i pozytywizmu-analiza - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1723299",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aktualny": true
+}

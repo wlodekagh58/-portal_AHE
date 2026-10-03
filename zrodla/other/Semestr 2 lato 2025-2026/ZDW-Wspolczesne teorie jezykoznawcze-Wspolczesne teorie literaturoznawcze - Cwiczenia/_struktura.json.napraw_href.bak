@@ -1,0 +1,224 @@
+{
+  "kurs_id": 93579,
+  "przedmiot": "ZDW:Współczesne teorie językoznawcze/Współczesne teorie literaturoznawcze - Ćwiczenia",
+  "semestr": "Semestr 2 lato 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\ZACZYNAMY!---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467291"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Etap 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=468434"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Etap 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=468435"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467291",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Powitanie---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1684095",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=468434",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 1.",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711688",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 1.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711688",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 2.",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711716",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 2.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711716",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 3. Interpretacje intersemiotyczne, intermedialne i wewnątrztekstowe. Część 1",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711626",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 1.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 1---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711626",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 3. Interpretacje intersemiotyczne, intermedialne i wewnątrztekstowe. Część 2",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711634",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 2.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 2---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711634",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 4. Językowo-kulturowe konteksty dzieł literackich i kulturowych.",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 4. Jezykowo-kulturowe konteksty dziel literackich i kulturowych.---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711666",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 4. Jezykowo-kulturowe konteksty dziel literackich i kulturowych..pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 4. Jezykowo-kulturowe konteksty dziel literackich i kulturowych.---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1711666",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Mother",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/A Silent Tribute - A Beautiful Emotional Heartfelt Short Film Will Stay With You Mother's Day---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1724222",
+          "dzieci": [],
+          "z_youtube": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Intertekstualność. Ćwiczenia zjazd",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Intertekstualnosc. Cwiczenia zjazd---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724802",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Intertekstualnosc. Cwiczenia zjazd.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Intertekstualnosc. Cwiczenia zjazd---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724802",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie podsumowujące do 1. etapu.",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Zadanie podsumowujace do 1. etapu.---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1731661",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=468435",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 5. Współczesne nauki interpretatywne o charakterze interdyscyplinarnym",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 5. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733168",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 5. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 5. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733168",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Ćwiczenia 6. Spójność i tekstualność utworów literackich",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 6. Spojnosc i tekstualnosc utworow literackich---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733170",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Cwiczenia 6. Spojnosc i tekstualnosc utworow literackich.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/Cwiczenia 6. Spojnosc i tekstualnosc utworow literackich---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733170",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Muzyczność dzieła literackiego",
+          "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/muzycznosc_dziela_literackiego_pdf---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733349",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "muzycznosc_dziela_literackiego_pdf.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/muzycznosc_dziela_literackiego_pdf---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733349",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "ZADANIE PODSUMOWUJĄCE",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\ZADANIE PODSUMOWUJACE---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1736338",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "ZADANIE PODSUMOWUJACE.pdf",
+              "href": "/zrodla/merytoryczne/ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia/Semestr 2 lato 2025-2026/ZADANIE PODSUMOWUJACE---ZDW-Wspolczesne teorie jezykoznawcze-Wspolczesne teorie literaturoznawcze - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    }
+  ],
+  "aktualny": true
+}

@@ -1,0 +1,44 @@
+{
+  "cca2b7934f67f8bd": {
+    "rodzic": "Instrukcja Exportu Bazy Danych",
+    "dziecko": "Instrukcja exporty bazy danych.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "różnica tylko w zapisie exportu (reg. 1)"
+  },
+  "49be31c6db074b34": {
+    "rodzic": "Wykład 1",
+    "dziecko": "Wyklad Pierwszy - Podstawy HTML.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  },
+  "c64a11caa8f13626": {
+    "rodzic": "Wykład 2",
+    "dziecko": "Wyklad Drugi - Podstawy CSS.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  },
+  "a3f4ec26c1c14c0d": {
+    "rodzic": "Wykład 3",
+    "dziecko": "Wyklad Trzeci - Tworzenie stron WWW przy pomocy AI.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  },
+  "0271981c1cc39315": {
+    "rodzic": "Wykład 4",
+    "dziecko": "Wyklad czwarty - Systemy zarzadzania trescia w pracy humanisty – architektura i logika srodowiska Wo.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  },
+  "adb6d1c9857e8cfd": {
+    "rodzic": "Wykład 5",
+    "dziecko": "Wyklad piaty - Ekosystemy kreatorow stron WWW – automatyzacja publikacji a swoboda tworcza.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  },
+  "2fb1c7ff00a4b7a6": {
+    "rodzic": "Wykład 6",
+    "dziecko": "Wyklad szosty - Frameworki CSS na przykladzie Bootstrapa – systemy siatkowe i responsywnosc w prezen.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "pozycja pusta, plik jedynym źródłem (reg. 7)"
+  }
+}

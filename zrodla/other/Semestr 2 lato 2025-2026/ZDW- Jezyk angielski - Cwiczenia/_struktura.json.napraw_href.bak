@@ -1,0 +1,206 @@
+{
+  "kurs_id": 93554,
+  "przedmiot": "ZDW: Język angielski - Ćwiczenia",
+  "semestr": "Semestr 2 lato 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "Strefa dydaktyki",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Strefa dydaktyki---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467266"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Strefa zasobów",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Strefa zasobow---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474891"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "Strefa dydaktyki",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467266",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Ocena semestralna/Dokumenty potwierdzające znajomość języka",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Dokumenty potwierdzajace znajomosc jezyka---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1694404",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Ważne informacje",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Wazne informacje---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711001",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lesson 01",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Lesson 01---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711002",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "watch",
+              "href": "/zrodla/merytoryczne/Zdw- Jezyk angielski - Cwiczenia/Semestr 2 lato 2025-2026/UK Education System Explained! Finally!---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": null,
+              "dzieci": [
+                {
+                  "typ": "plik",
+                  "etykieta": "Transkrypcja",
+                  "href": "/zrodla/merytoryczne/Zdw- Jezyk angielski - Cwiczenia/Semestr 2 lato 2025-2026/UK Education System Explained! Finally! - transkrypcja---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.txt",
+                  "dzieci": []
+                }
+              ],
+              "z_youtube": true,
+              "ma_transkrypcje": true
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lesson 02",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Lesson 02---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711003",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "7 Keys to Handling Difficult Teenagers",
+              "href": "https://www.psychologytoday.com/us/blog/communication-success/201507/7-keys-handling-difficult-teenagers",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lesson 03",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Lesson 03---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711004",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "This Is What It's Like to Be a Teacher During the Coronavirus Pandemic",
+              "href": "https://time.com/5883384/teachers-coronavirus/",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lesson 04",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Lesson 04---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711005",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Jak napisać streszczenie - poradnik",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Jak napisac streszczenie - poradnik---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1711006",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "https://www.grammarly.com/blog/summarizing-paraphrasing/how-to-summarize-an-article/",
+              "href": "https://www.grammarly.com/blog/summarizing-paraphrasing/how-to-summarize-an-article/",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "egzamin informacje",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\egzamin informacje---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/folder/view.php?id=1711007",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "przykladowe teksty.pdf",
+              "href": "/zrodla/merytoryczne/Zdw- Jezyk angielski - Cwiczenia/Semestr 2 lato 2025-2026/przykladowe teksty---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.pdf",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "online meeting",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\online meeting---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1727998",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "online meeting - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Zdw- Jezyk angielski - Cwiczenia/Semestr 2 lato 2025-2026/online meeting - Video 1---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5568877",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "materiały z online meeting",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\materialy z online meeting---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/folder/view.php?id=1732532",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "egzamin ocena",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\ZDW- Jezyk angielski - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\egzamin ocena---ZDW- Jezyk angielski - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1744553",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Strefa zasobów",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474891",
+      "aktywnosci": [
+        {
+          "typ": "link",
+          "etykieta": "Biblioteka AHE",
+          "href": "https://platforma.ahe.lodz.pl/course/view.php?id=10486",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694405",
+          "dzieci": [],
+          "kurs_docelowy": 10486
+        },
+        {
+          "typ": "link",
+          "etykieta": "Biblioteka PUW",
+          "href": "https://platforma.ahe.lodz.pl/course/index.php?categoryid=22",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694406",
+          "dzieci": []
+        }
+      ]
+    }
+  ],
+  "aktualny": true
+}

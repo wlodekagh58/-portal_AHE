@@ -1,0 +1,116 @@
+{
+  "43539a0099d1721d": {
+    "rodzic": "Regulamin studiów",
+    "dziecko": "REGULAMIN STUDIOW 2019 SKAN.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "2 — B zawiera w całości temat A („Regulamin studiów\"), i po odjęciu znaczników technicznych (2019 SKAN, rozszerzenie) nic nowego nie zostaje, czyli to samo co w A."
+  },
+  "b2d61c9f54a3bc82": {
+    "rodzic": "Regulamin studiów podyplomowych",
+    "dziecko": "REGULAMIN STUDIOW PODYPLOMOWYCH 2019 SKAN.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 5: rok 2019"
+  },
+  "85111fc281b9e40b": {
+    "rodzic": "Regulamin dyplomowania",
+    "dziecko": "2024_Regulamin dyplomowania w AHE.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 5: rok 2024 i kontekst AHE to szczegóły aptekarskie, po ich odjęciu zostaje samo A"
+  },
+  "e69df7bbe8812976": {
+    "rodzic": "Regulamin antyplagiatowy",
+    "dziecko": "Regulamin JSA_AHE.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8, w B nowy temat JSA_AHE"
+  },
+  "f8e4a9f15575486d": {
+    "rodzic": "Zarządzenie z dn. 9.05.2024 r.",
+    "dziecko": "Zarządzenie Rektora wzór I strony pracy licencjackiej i magisterskiej 2024.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "Reguła 8: po odjęciu z „B\" diakrytyków i „2024\" zostaje człon „Rektora wzór I strony pracy licencjackiej i magisterskiej\" — temat niezawierający się w A („Zarządzenie z dn. 9.05.2024 r.\" podaje tylko datę)."
+  },
+  "9a31e71ce0d5450c": {
+    "rodzic": "Instrukcja wypełnienia strony tytułowej",
+    "dziecko": "INSTRUKCJA wypelniania strony tytulowej.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 1."
+  },
+  "209622a36bf2ca3a": {
+    "rodzic": "Wzór – Łódź",
+    "dziecko": "WZÓR do Zarządzenia Rektora - I strona pracy licencjackiej i magisterskiej 2024 - zalącznik Lodz.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8 — B zawiera „do Zarządzenia Rektora\", „I strona pracy licencjackiej i magisterskiej\" i „załącznik\", czyli realną treść nieodgadniącą się z A"
+  },
+  "b978c920603d5ca9": {
+    "rodzic": "Wzór – filie",
+    "dziecko": "WZÓR do Zarządzenia Rektora - I strona pracy licencjackiej i magisterskiej 2024 - zalącznik Filie.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "B: temat pracy licencjacko-magisterskiej — reg. 8"
+  },
+  "52a1022bc2f5feee": {
+    "rodzic": "Administracja i zarządzanie w jednostkach samorządu terytorialnego i NGO",
+    "dziecko": "Administracja publiczna NGO zagadnienia na egzamin dyplomowy.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: publiczna NGO, egzamin dyplomowy — nowy temat"
+  },
+  "5af39d4a88b23fc4": {
+    "rodzic": "Dziennikarstwo i komunikacja społeczna",
+    "dziecko": "DziKS.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 8, po odjęciu nic nowego"
+  },
+  "90a296223d06d0c9": {
+    "rodzic": "Grafika – I stopień",
+    "dziecko": "Grafika I.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "Reguła 2: B (Grafika I) to podzbiór A (Grafika – I stopień) — pierwsza część tytułu bez doprecyzowania."
+  },
+  "8fef400f660a8406": {
+    "rodzic": "Grafika – II stopień",
+    "dziecko": "Grafika II.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 2 — B to podzbiór A (brak słowa \"stopień\")"
+  },
+  "29ad761adf95dabe": {
+    "rodzic": "Kosmetologia",
+    "dziecko": "PYTANIA EGZAMINACYJNE Kosmetologia licencjat.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8 — „pytania egzaminacyjne\" zwraca temat, którego brakuje w A."
+  },
+  "6da4804bec5f393e": {
+    "rodzic": "Pedagogika – II stopień",
+    "dziecko": "Pedagogika II.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 2 — B jest podzbiorem A (ucięcie „– stopień\")"
+  },
+  "fe3ccb0b2eb52af7": {
+    "rodzic": "Politologia – I stopień",
+    "dziecko": "Politologia I.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "ten sam temat — reg. 8"
+  },
+  "9c3a41ad85d1efa0": {
+    "rodzic": "Politologia – II stopień",
+    "dziecko": "Politologia II.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "regula 1, \"stopień\" doprecyzowanie II, nie nowy temat"
+  },
+  "3ca4b959d2516c34": {
+    "rodzic": "Psychologia",
+    "dziecko": "Zagadnienia EGZAMIN DYPLOMOWY PSYCHOLOGIA_30.11.2019 (1).pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "regula 8, \"Zagadnienia EGZAMIN DYPLOMOWY\" to samodzielny człon tematyczny niedostępny z samego \"Psychologia\""
+  },
+  "1ca51cf52522f596": {
+    "rodzic": "Zarządzanie – I stopień",
+    "dziecko": "Zarzadzanie I.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "Reguła 7 — A pusta znaczeniowo, liczba stopni to samo co stopień w innym kontekście ale to tylko inny sposób zapisu tego samego pojęcia, nazwa pliku nie wnosi nowej treści tematycznej. Czekaj — moja ocena: \"Zarządzanie – I stopień\" vs \"Zarzadzanie I.pdf\" — to jest reguła 1: B to A po sanityzacji (diakrytyki, usuwanie myślnika, skrótowanie \"stopień\" do \"I\" jako cyfra romerska? Nie, to różne słowa). Sprawdźmy dokładniej: A=\"Zarządzanie – I stopień\", B=\"Zarzadzanie I.pdf\". Po odjęciu znaczników technicznych i różnic zapisu z B zostaje \"Zarzadzanie\", co to samo co \"Zarządzanie\" — reguła 1: różnice tylko w diakrytykach (\"Zarządzanie\" vs \"Zarzadzanie\" to nie diakrytyki, to inne słowo... ale to prawdopodobnie błąd w nazwie pliku, autor pomylił \"Zarządzanie\" z \"Zarządzenie\"? Nie, \"Zarzadzanie\" nie istnieje). Sprawdźmy regułę 1: \"różnice tylko w diakrytykach, wielkości liter, spacjach/podkreślnikach, rozszerzeniu\" — tu mamy też zmianę \"Zarządzanie\" → \"Zarzadzanie\" (zmiana końcówki -anie → -anie z literówką? Nie, to \"Zarządzanie\" vs \"Zarzadzanie\" — to właściwie to samo słowo z literówką w nazwie pliku, gdzie \"ą\" zastąpiono \"a\" i dodano \"d\"? Nie — \"Zarządzanie\" vs \"Zarzadzanie\": pierwsze ma \"dz\", drugie \"dz\" też, różnica to \"ą\" vs \"a\" i \"ie\" vs \"e\". To jednak nie zmienia tematu — to nadal \"zarządzanie\". Zgodnie z regułą 1: drobne różnice słowne nieruszające tematu → ukryj."
+  },
+  "3391401af9842624": {
+    "rodzic": "Zarządzanie – II stopień",
+    "dziecko": "Zarzadzanie II.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "podzbiór A — brak „stopień\", reguła 2"
+  }
+}

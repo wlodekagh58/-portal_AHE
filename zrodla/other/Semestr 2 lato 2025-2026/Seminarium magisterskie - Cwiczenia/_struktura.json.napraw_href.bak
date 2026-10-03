@@ -1,0 +1,94 @@
+{
+  "kurs_id": 94246,
+  "przedmiot": "Seminarium magisterskie - Ćwiczenia",
+  "semestr": "Semestr 2 lato 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "Strefa dydaktyki",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium magisterskie - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Strefa dydaktyki---Seminarium magisterskie - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474668"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Strefa zasobów",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium magisterskie - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Strefa zasobow---Seminarium magisterskie - Cwiczenia---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474946"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "Strefa dydaktyki",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474668",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium magisterskie - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Powitanie---Seminarium magisterskie - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1712507",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie 1. Koncepcja pracy magisterskiej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium magisterskie - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Zadanie 1. Koncepcja pracy magisterskiej---Seminarium magisterskie - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1712508",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie 2. Stan zaawansowania pracy magisterskiej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium magisterskie - Cwiczenia\\Semestr 2 lato 2025-2026\\podstrony\\Zadanie 2. Stan zaawansowania pracy magisterskiej---Seminarium magisterskie - Cwiczenia---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1735154",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Strefa zasobów",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474946",
+      "aktywnosci": [
+        {
+          "typ": "link",
+          "etykieta": "Biblioteka AHE",
+          "href": "https://platforma.ahe.lodz.pl/course/view.php?id=10486",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694521",
+          "dzieci": [],
+          "kurs_docelowy": 10486
+        },
+        {
+          "typ": "link",
+          "etykieta": "Biblioteka PUW",
+          "href": "https://platforma.ahe.lodz.pl/course/index.php?categoryid=22",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694522",
+          "dzieci": []
+        },
+        {
+          "typ": "link",
+          "etykieta": "Seminarium dyplomowe",
+          "href": "https://platforma.ahe.lodz.pl/course/view.php?id=3456",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694523",
+          "dzieci": [],
+          "kurs_docelowy": 3456
+        },
+        {
+          "typ": "link",
+          "etykieta": "Seminarium dyplomowe (ZPUReg)",
+          "href": "https://platforma.ahe.lodz.pl/course/view.php?id=41572",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1694524",
+          "dzieci": [],
+          "kurs_docelowy": 41572
+        }
+      ]
+    }
+  ],
+  "aktualny": true
+}

@@ -1,0 +1,109 @@
+{
+  "kurs_id": 41572,
+  "przedmiot": "Seminarium dyplomowe (ZPUReg)",
+  "semestr": "Semestr nieznany",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "Seminarium dyplomowe",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Seminarium dyplomowe---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=238271"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Seminarium dyplomowe — materiały dydaktyczne",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Seminarium dyplomowe — materialy dydaktyczne---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=238272"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "Seminarium dyplomowe",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=238271",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Opracowanie materiału",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Opracowanie materialu---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=1300702",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Seminarium dyplomowe — materiały dydaktyczne",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=238272",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 1. Seminarium dyplomowe – wprowadzenie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 1. Seminarium dyplomowe – wprowadzenie---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1043483",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 2. Przygotowanie pracy dyplomowej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 2. Przygotowanie pracy dyplomowej---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1302939",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 3. Pisanie pracy dyplomowej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 3. Pisanie pracy dyplomowej---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1302940",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 4. Źródła i materiały",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 4. Zrodla i materialy---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1302941",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 5. Prezentacja i ocena pracy dyplomowej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 5. Prezentacja i ocena pracy dyplomowej---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1302942",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Lekcja 6. Obrona pracy dyplomowej",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Lekcja 6. Obrona pracy dyplomowej---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/lesson/view.php?id=1302943",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Bibliografia",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Seminarium dyplomowe (ZPUReg)\\Seminaria i kursy dodatkowe\\podstrony\\Bibliografia---Seminarium dyplomowe (ZPUReg)---Seminaria i kursy dodatkowe.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/page/view.php?id=1302944",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    }
+  ],
+  "grupa": "Seminaria i kursy dodatkowe",
+  "aktualny": false
+}

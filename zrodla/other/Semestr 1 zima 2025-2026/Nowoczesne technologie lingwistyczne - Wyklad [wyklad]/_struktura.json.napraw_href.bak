@@ -1,0 +1,375 @@
+{
+  "kurs_id": 86459,
+  "przedmiot": "Nowoczesne technologie lingwistyczne - Wykład [wykład]",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449021"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451689"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451690"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449021",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Szanowni Państwo,miło mi Państwa pow...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Szanowni Panstwo,milo mi Panstwa pow...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1642079",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Etykieta",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etykieta---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1654696",
+          "dzieci": []
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451689",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Spotkanie 1.Nowoczesne technologie lingwistyczne.J...",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Nowoczesne technologie lingwistyczne  Spotkanie 1---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1642085",
+          "z_youtube": true,
+          "ma_transkrypcje": false,
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Spotkanie 2.Nowoczesne technologie lingwistyczne.N...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Spotkanie 2.Nowoczesne technologie lingwistyczne.N...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1642086",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "www.bbc.co.uk",
+              "href": "http://www.bbc.co.uk",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Spotkanie 4.Nowoczesne technologie lingwistyczne.H...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Spotkanie 4.Nowoczesne technologie lingwistyczne.H...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1642087",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "O przewadze jaką daje humanistyka cyfrowa.Humanist...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\O przewadze jaka daje humanistyka cyfrowa.Humanist...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1642088",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "https://naukawpolsce.pap.pl/aktualnosci/news,31908,naukowiec-o-przewadze-jaka-daje-humanistyka-cyfrowa.html?fbclid=IwAR3CUU0vdKRdIUDAzr5-BeeGz6GSy62OcM3_P0ht7IoismwH3hbpndc9M6A",
+              "href": "https://naukawpolsce.pap.pl/aktualnosci/news,31908,naukowiec-o-przewadze-jaka-daje-humanistyka-cyfrowa.html?fbclid=IwAR3CUU0vdKRdIUDAzr5-BeeGz6GSy62OcM3_P0ht7IoismwH3hbpndc9M6A",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Nowe narzędzia elektroniczne wykorzystywane w humanistyce.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Nowoczesne techn. _ost---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1642089",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Nowoczesne techn. _ost.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Nowoczesne techn. _ost---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1642089",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Językoznawstwo korpusowe. Spotkanie 1.Uwaga! ...",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe wprowadzenie---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1661814",
+          "z_youtube": true,
+          "ma_transkrypcje": false,
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Językoznawstwo korpusowe.  Część 2.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy jezykowe 2---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661815",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Korpusy jezykowe 2.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy jezykowe 2---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661815",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Językoznawstwo korpusowe. Część 3.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 3---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661816",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Jezykoznawstwo korpusowe 3.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 3---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661816",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Językoznawstwo korpusowe. Spotkanie 4.Typolog...",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 2---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1661817",
+          "z_youtube": true,
+          "ma_transkrypcje": false,
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Typologia korpusów językowych.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Piotr-Paryzek_Typologia korpusow---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661818",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Piotr-Paryzek_Typologia korpusow.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Piotr-Paryzek_Typologia korpusow---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661818",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451690",
+      "aktywnosci": [
+        {
+          "typ": "link",
+          "etykieta": "Biblioteka PUW",
+          "href": "https://platforma.ahe.lodz.pl/course/index.php?categoryid=22",
+          "href_moodle": null,
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Językoznawstwo korpusowe. Spotkanie 5.Przeszu...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Jezykoznawstwo korpusowe. Spotkanie 5.Przeszu...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1661821",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Zadanie---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/quiz/view.php?id=1661834",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Językoznawstwo korpusowe. Spotkanie 6.Użytecz...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Jezykoznawstwo korpusowe. Spotkanie 6.Uzytecz...---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1661825",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Satoła-Staśkowiak_Istotność słowa",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Satola-Staskowiak_Istotnosc slowa 1---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661833",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Satola-Staskowiak_Istotnosc slowa 1.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Satola-Staskowiak_Istotnosc slowa 1---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661833",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "J. Satoła-Staśkowiak_ON THE BENEFITS OF FOREIGN LANGUAGE LEARNING BASED ON PARALLEL LANGUAGE CORPUS",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/document---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661835",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "document.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/document---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661835",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "J. Satoła-Staśkowiak_Korpusy językowe i wyszukiwarki korpusowe a badania nad współczesnymi tendencjami języków słowiańskich",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/J. Satola-Staskowiak_Korpusy jezykowe i wyszukiwarki korpusowe a badania nad wspolczesnymi tendencja---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661832",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "J. Satola-Staskowiak_Korpusy jezykowe i wyszukiwarki korpusowe a badania nad wspolczesnymi tendencja.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/J. Satola-Staskowiak_Korpusy jezykowe i wyszukiwarki korpusowe a badania nad wspolczesnymi tendencja---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661832",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "A. Zasina_ Korpusy_jezykowe_w_nauczaniu_jezykow_obcych",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy_jezykowe_w_nauczaniu_jezykow_obc---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661827",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Korpusy_jezykowe_w_nauczaniu_jezykow_obc.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy_jezykowe_w_nauczaniu_jezykow_obc---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661827",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Edukacja przyszłych tłumaczy na podstawie korpusów językowych i znajdujących się w nich neologizmów_J. Satoła-Staśkowiak",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Edukacja przyszlych tlumaczy na podstawie korpusow jezykowych i znajdujacych sie w nich neologizmow_---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661828",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Edukacja przyszlych tlumaczy na podstawie korpusow jezykowych i znajdujacych sie w nich neologizmow_.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Edukacja przyszlych tlumaczy na podstawie korpusow jezykowych i znajdujacych sie w nich neologizmow_---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661828",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "M. Świnoga_NARZĘDZIA WSPOMAGAJĄCE TŁUMACZENIE TEKSTÓW",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/M. Swinoga_NARZEDZIA WSPOMAGAJACE TLUMACZENIE TEKSTOW---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661826",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "M. Swinoga_NARZEDZIA WSPOMAGAJACE TLUMACZENIE TEKSTOW.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/M. Swinoga_NARZEDZIA WSPOMAGAJACE TLUMACZENIE TEKSTOW---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661826",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Spotkanie 7",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 6---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661824",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Jezykoznawstwo korpusowe 6.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 6---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661824",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Spotkanie 8.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy jezykowe w Polsce 7---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661829",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Korpusy jezykowe w Polsce 7.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Korpusy jezykowe w Polsce 7---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661829",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Spotkanie 9.",
+          "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 8---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661831",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Jezykoznawstwo korpusowe 8.pdf",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Jezykoznawstwo korpusowe 8---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1661831",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 3 stycznia 2026 r., g. 10.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nowoczesne technologie lingwistyczne - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 3 stycznia 2026 r., g. 10.00---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1668848",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 3 stycznia 2026 r., g. 10.00 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Nowoczesne technologie lingwistyczne - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 3 stycznia 2026 r., g. 10.00 - Video 1---Nowoczesne technologie lingwistyczne - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5388887",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    }
+  ],
+  "aktualny": false
+}

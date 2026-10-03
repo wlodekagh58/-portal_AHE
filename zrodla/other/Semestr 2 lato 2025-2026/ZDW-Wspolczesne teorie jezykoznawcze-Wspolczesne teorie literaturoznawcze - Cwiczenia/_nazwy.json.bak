@@ -1,0 +1,56 @@
+{
+  "3c8251cd6a1c0d9f": {
+    "rodzic": "Ćwiczenia 1.",
+    "dziecko": "Cwiczenia 1.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "diakrytyka + rozszerzenie pliku — reguła 1"
+  },
+  "7689f26ff1c77d18": {
+    "rodzic": "Ćwiczenia 2.",
+    "dziecko": "Cwiczenia 2.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "Reguła 1."
+  },
+  "f7ec10ca83acea7c": {
+    "rodzic": "Ćwiczenia 3. Interpretacje intersemiotyczne, intermedialne i wewnątrztekstowe. Część 1",
+    "dziecko": "Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 1.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "brak nowego członu tematycznego po odejmowaniu, reguła 8"
+  },
+  "11a7448b23dd10cd": {
+    "rodzic": "Ćwiczenia 3. Interpretacje intersemiotyczne, intermedialne i wewnątrztekstowe. Część 2",
+    "dziecko": "Cwiczenia 1. Interpretacje intersemiotyczne, intermedialne i wewnatrztekstowe. Czesc 2.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reg. 1: same diakrytyki i numer 3/1, temat bez zmian"
+  },
+  "ad727829a9c476da": {
+    "rodzic": "Ćwiczenia 4. Językowo-kulturowe konteksty dzieł literackich i kulturowych.",
+    "dziecko": "Cwiczenia 4. Jezykowo-kulturowe konteksty dziel literackich i kulturowych..pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "Reguła 1 — B to A po sanityzacji, tylko diakrytyki i rozszerzenie się różnią."
+  },
+  "55de653444ea6bf0": {
+    "rodzic": "Intertekstualność. Ćwiczenia zjazd",
+    "dziecko": "Intertekstualnosc. Cwiczenia zjazd.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 1 — różnice tylko diakrytyki i rozszerzenie .pdf"
+  },
+  "48a9584c5963489a": {
+    "rodzic": "Ćwiczenia 5. Współczesne nauki interpretatywne o charakterze interdyscyplinarnym",
+    "dziecko": "Cwiczenia 5. Wspolczesne nauki interpretatywne o charakterze interdyscyplinarnym.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "różnice tylko w diakrytykach, reguła 1"
+  },
+  "ce30ded71054cf7d": {
+    "rodzic": "Ćwiczenia 6. Spójność i tekstualność utworów literackich",
+    "dziecko": "Cwiczenia 6. Spojnosc i tekstualnosc utworow literackich.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 1 — B to A po sanityzacji: różnice tylko w diakrytykach/spacjach/rozsz. (Ć→C, ó→o, ś→sc, spacje→podkreślniki, PDF→pdf)."
+  },
+  "ea42fb3ed54f3fb9": {
+    "rodzic": "Muzyczność dzieła literackiego",
+    "dziecko": "muzycznosc_dziela_literackiego_pdf.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła P — „muz ýczność\" po odjęciu technicznego konwersji różni się od samej biblijki, nie oczekiwanej córki⬇️ z zaw📐"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "kurs_id": 93542,
+  "przedmiot": "Nurty polskiej literatury dawnej(od średniowiecza do oświecenia) - Wykład [wykład]",
+  "semestr": "Semestr 2 lato 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\ZACZYNAMY!---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467254"
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Etap 1---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470929"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Etap 2---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470930"
+    },
+    {
+      "id": "section-4",
+      "tytul": "e-zajęcia",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\e-zajecia---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474934"
+    },
+    {
+      "id": "section-5",
+      "tytul": "e-konsultacje",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\e-konsultacje---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474935"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=467254",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Powitanie---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1685500",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Organizacja zajęć i warunki zaliczeniaFormy realiz...",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Organizacja zajec i warunki zaliczeniaFormy realiz...---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1699561",
+          "dzieci": []
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Zagadnienia egzaminacyjne",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Zagadnienia egzaminacyjne. Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701018",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Zagadnienia egzaminacyjne. Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Zagadnienia egzaminacyjne. Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701018",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Lektury obowiązkowe",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Lektury obowiazkowe---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701035",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Lektury obowiazkowe.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Lektury obowiazkowe---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701035",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Forum merytoryczne",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Forum merytoryczne---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/forum/view.php?id=1701039",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470929",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 1. Epoka staropolska",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 1 Epoka staropolska---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701041",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 1 Epoka staropolska.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 1 Epoka staropolska---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1701041",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 2 . Nurty liryki średniowiecznej. Kultura oficjalna i nieoficjalna",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 2 . Nurty liryki sredniowiecznej. Kultura oficjalna i nieoficjalna---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732668",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 2 . Nurty liryki sredniowiecznej. Kultura oficjalna i nieoficjalna.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 2 . Nurty liryki sredniowiecznej. Kultura oficjalna i nieoficjalna---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732668",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "[Wykład 3 Literatura średniowieczna w Polsce",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 3 Literatura sredniowieczna w Polsce (3)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703153",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 3 Literatura sredniowieczna w Polsce (3).pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 3 Literatura sredniowieczna w Polsce (3)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703153",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Style literatury średniowiecznej. Dramat i teatr.",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Style literatury sredniowiecznej. Dramat i teatr.---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732674",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Style literatury sredniowiecznej. Dramat i teatr..pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Style literatury sredniowiecznej. Dramat i teatr.---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732674",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 4 Piśmiennictwo XV wieku",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 4 Pismiennictwo XV wieku---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703156",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 4 Pismiennictwo XV wieku.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 4 Pismiennictwo XV wieku---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703156",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 5. Literatura polskiego renesansu (prezentacja)",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731346",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Literatura polskiego renesansu.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731346",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 5. Literatura polskiego renesansu",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 5. Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731344",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 5. Literatura polskiego renesansu.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 5. Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731344",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 6. Literatura polskiego  renesansu",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 6. Literatura polskiego renesansuב---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703216",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 6. Literatura polskiego renesansuב.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 6. Literatura polskiego renesansuב---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703216",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 7. Literatura polskiego  renesansu",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 7. Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703226",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 7. Literatura polskiego renesansu.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 7. Literatura polskiego renesansu---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1703226",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Średniowiecze. Wykład zjazd",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Sredniowiecze wyklad zjazd---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724796",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Sredniowiecze wyklad zjazd.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Sredniowiecze wyklad zjazd---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724796",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Lament świętokrzyski. Wykład zjazd",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Lament swietokrzyski. Wyklad zjazd---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724798",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Lament swietokrzyski. Wyklad zjazd.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Lament swietokrzyski. Wyklad zjazd---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1724798",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Gratia et misericordia · Paolo Buonvino",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Gratia et misericordia---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1725323",
+          "dzieci": [],
+          "z_youtube": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Filiae Mestae Jerusalem, RV 638: \"Sileant Zephyri\" · Philippe Jaroussky",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Filiae Mestae Jerusalem, RV 638- -Sileant Zephyri---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1725325",
+          "dzieci": [],
+          "z_youtube": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Edvard Grieg’s \"Solveig’s Song\" from \"Peer Gynt\",",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Elsa Dreisig sings Solveig's Song (Grieg- Peer Gynt)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/url/view.php?id=1725327",
+          "dzieci": [],
+          "z_youtube": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Nurty polskiej literatury dawnej(od średniowiecza do oświecenia) - Wykład_Webinar_26.04.2026_godz.18.00-19.30_Pańkow",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]\\Semestr 2 lato 2025-2026\\podstrony\\Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad_Webinar_26.04.2026_godz.18.00-19.30_Pankow---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1731225",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad_Webinar_26.04.2026_godz.18.00-19.30_Pankow - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad_Webinar_26.04.2026_godz.18.00-19.30_Pankow - Video 1---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5557264",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad_Webinar_26.04.2026_godz.18.00-19.30_Pankow - Video 2.mp4",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad_Webinar_26.04.2026_godz.18.00-19.30_Pankow - Video 2---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5557272",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=470930",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 8. Literatura baroku",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/prezentacja_Wyklad 8. Literatura baroku---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731350",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "prezentacja_Wyklad 8. Literatura baroku.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/prezentacja_Wyklad 8. Literatura baroku---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731350",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Filozofia baroku w Rzeczypospolitej",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Filozofia baroku w Rzeczypospolitej---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731994",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Filozofia baroku w Rzeczypospolitej.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Filozofia baroku w Rzeczypospolitej---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731994",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Liryka Sebastiana Grabowieckiego",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Liryka Sebastiana Grabowieckiego---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731995",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Liryka Sebastiana Grabowieckiego.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Liryka Sebastiana Grabowieckiego---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731995",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wespazjan Kochowski",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wespazjan Kochowski---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731997",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wespazjan Kochowski.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wespazjan Kochowski---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1731997",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Poezja barokowa",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Poezja barokowa---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732003",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Poezja barokowa.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Poezja barokowa---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732003",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Europejski charakter literatury polskiego Oświecenia",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Zdzislaw Libera---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732008",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Zdzislaw Libera.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Zdzislaw Libera---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732008",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 9. Kultura ziemiańska renesansu i baroku i jej literatura",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 9. Kultura ziemianska renesansu i baroku i jej literatura (kopia)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732669",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 9. Kultura ziemianska renesansu i baroku i jej literatura (kopia).pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 9. Kultura ziemianska renesansu i baroku i jej literatura (kopia)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732669",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 10. POCZĄTKI OŚWIECENIA W CZASACH SASKICH",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 10. POCZATKI OSWIECENIA W CZASACH SASKICH---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732679",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 10. POCZATKI OSWIECENIA W CZASACH SASKICH.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 10. POCZATKI OSWIECENIA W CZASACH SASKICH---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732679",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 11.PRZEŁOM KULTURY W DRUGIEJ POLOWIE XVIII WIEKU",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 11.PRZELOM KULTURY W DRUGIEJ POLOWIE XVIII WIEKU---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732681",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 11.PRZELOM KULTURY W DRUGIEJ POLOWIE XVIII WIEKU.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 11.PRZELOM KULTURY W DRUGIEJ POLOWIE XVIII WIEKU---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732681",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 12.TEORETYCY LITERATURY.  W KRĘGU KRÓLA I JEGO POLITYKI KULTURALNEJ",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/TEORETYCY LITERATURY.---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732683",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "TEORETYCY LITERATURY..pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/TEORETYCY LITERATURY.---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732683",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 13.SENTYMENTALIZM, PREROMANTYZM, ROKOKO",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 13.SENTYMENTALIZM, PREROMANTYZM, ROKOKO---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732684",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 13.SENTYMENTALIZM, PREROMANTYZM, ROKOKO.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 13.SENTYMENTALIZM, PREROMANTYZM, ROKOKO---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732684",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Wykład 14.TEATR STANISŁAWOWSKI",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 14.TEATR STANISLAWOWSKI---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732685",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Wyklad 14.TEATR STANISLAWOWSKI.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Wyklad 14.TEATR STANISLAWOWSKI---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732685",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Poeta czułego serca",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Poeta czulego serca---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732697",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Poeta czulego serca.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Poeta czulego serca---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1732697",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Spór o średniowiecze",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Brzezinska_Spor_o_sredniowiecze---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733208",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Brzezinska_Spor_o_sredniowiecze.pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Brzezinska_Spor_o_sredniowiecze---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1733208",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Między sarmacką tradycją a nowoczesnością – dylematy ideowe twórców polskiego oświecenia",
+          "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Nurty polskiej literatury dawnej (od sredniowiecza do oswiecenia)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1741470",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Nurty polskiej literatury dawnej (od sredniowiecza do oswiecenia).pdf",
+              "href": "/zrodla/merytoryczne/Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]/Semestr 2 lato 2025-2026/Nurty polskiej literatury dawnej (od sredniowiecza do oswiecenia)---Nurty polskiej literatury dawnej(od sredniowiecza do oswiecenia) - Wyklad [wyklad]---Semestr 2 lato 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1741470",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "tytul": "e-zajęcia",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474934",
+      "aktywnosci": []
+    },
+    {
+      "id": "section-5",
+      "tytul": "e-konsultacje",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=474935",
+      "aktywnosci": []
+    }
+  ],
+  "aktualny": true
+}

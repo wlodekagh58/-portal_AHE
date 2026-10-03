@@ -1,0 +1,26 @@
+{
+  "33fd7c6b73a93d9d": {
+    "rodzic": "Oceny i uzasadnienia",
+    "dziecko": "Oceny.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 2: B podzbiór A"
+  },
+  "4d90172a898922a1": {
+    "rodzic": "Chatboty",
+    "dziecko": "Nieskonczona_rozmowa_AI_chatboty_uzaleznienie.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: plik dodaje uzależnienie i rozmowę"
+  },
+  "1f8e675dd06b4161": {
+    "rodzic": "Chatboty artykuł",
+    "dziecko": "Chatboty_jako_wspolczesna_forma_nar (1).pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: plik dodaje \"współczesna forma narracji\""
+  },
+  "7780ac937bbb7d7f": {
+    "rodzic": "Chatbot 2",
+    "dziecko": "Chatboty_narzedzia_przestepcze_prezentacja.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8: plik dodaje \"narzędzia przestępcze\""
+  }
+}

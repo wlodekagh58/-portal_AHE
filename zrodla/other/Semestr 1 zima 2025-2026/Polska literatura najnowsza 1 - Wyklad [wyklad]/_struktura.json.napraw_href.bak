@@ -1,0 +1,306 @@
+{
+  "kurs_id": 86472,
+  "przedmiot": "Polska literatura najnowsza 1 - Wykład [wykład]",
+  "semestr": "Semestr 1 zima 2025/2026",
+  "sekcje_pliki": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\ZACZYNAMY!---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449034"
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451944"
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Etap 2---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451945"
+    }
+  ],
+  "sekcje": [
+    {
+      "id": "section-0",
+      "tytul": "ZACZYNAMY!",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=449034",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Powitanie",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Powitanie---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1620508",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "TREŚCI PROGRAMOWE",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\TRESCI PROGRAMOWE---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1631573",
+          "dzieci": []
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "BIBLIOGRAFIA",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\BIBLIOGRAFIA---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1631574",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "http://www.dwutygodnik.com/artykul/2275-poezja-z-antymaterii.html",
+              "href": "http://www.dwutygodnik.com/artykul/2275-poezja-z-antymaterii.html",
+              "href_moodle": null,
+              "dzieci": []
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://bazhum.muzhp.pl/media/files/Teksty_Drugie_teoria_literatury_krytyka_interpretacja/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)-s57-66/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)-s57-66.pdf",
+              "href": "https://bazhum.muzhp.pl/media/files/Teksty_Drugie_teoria_literatury_krytyka_interpretacja/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)-s57-66/Teksty_Drugie_teoria_literatury_krytyka_interpretacja-r2014-t-n3_(147)-s57-66.pdf",
+              "href_moodle": null,
+              "dzieci": [],
+              "dziala": false
+            },
+            {
+              "typ": "link",
+              "etykieta": "http://tekstydrugie.pl/pl/biblio/milosz-przestrzen-brzozowski/",
+              "href": "http://tekstydrugie.pl/pl/biblio/milosz-przestrzen-brzozowski/",
+              "href_moodle": null,
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "WA248_80749_P-I-30_pawelec-kod_o.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/WA248_80749_P-I-30_pawelec-kod_o---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://culture.pl/pl/artykul/trudna-wolnosc-dramaturgia-po-1989-roku",
+              "href": "https://culture.pl/pl/artykul/trudna-wolnosc-dramaturgia-po-1989-roku",
+              "href_moodle": null,
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "sid_13_zimnica-kuziola_jakubik.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/sid_13_zimnica-kuziola_jakubik---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "link",
+              "etykieta": "https://core.ac.uk/download/pdf/197746612.pdf",
+              "href": "https://core.ac.uk/download/pdf/197746612.pdf",
+              "href_moodle": null,
+              "dzieci": [],
+              "dziala": false
+            },
+            {
+              "typ": "link",
+              "etykieta": "http://www.dialog-pismo.pl/w-numerach/od-podroby-do-re-wizji-dramat-polski-po-roku-1989",
+              "href": "http://www.dialog-pismo.pl/w-numerach/od-podroby-do-re-wizji-dramat-polski-po-roku-1989",
+              "href_moodle": null,
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "WA248_67285_P-I-2524_misiak-stanislawa.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/WA248_67285_P-I-2524_misiak-stanislawa---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "WA248_72916_P-I-2524_fiut-po-smierci_o.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/WA248_72916_P-I-2524_fiut-po-smierci_o---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "BSL_16_2020_A_Larenta_Metamorficznosc_postaci_w_tworczosci_Olgi_Tokarczuk.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/BSL_16_2020_A_Larenta_Metamorficznosc_postaci_w_tworczosci_Olgi_Tokarczuk---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            },
+            {
+              "typ": "plik",
+              "etykieta": "WA248_72660_P-I-2524_ziatek-nowy_o.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/WA248_72660_P-I-2524_ziatek-nowy_o---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 1",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1644697",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 1 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 1 - Video 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5294893",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar 2",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar 2---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1644698",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar 2 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar 2 - Video 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5295088",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Zadanie zaliczeniowe",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Zadanie zaliczeniowe---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1649402",
+          "dzieci": [],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar, 30.11.2025 r., godz. 8.30",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar, 30.11.2025 r., godz. 8.30---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1661110",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar, 30.11.2025 r., godz. 8.30 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar, 30.11.2025 r., godz. 8.30 - Video 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5350216",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar część II",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar czesc II---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1663148",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar czesc II - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar czesc II - Video 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5350664",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Konsultacje",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Konsultacje---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/label/view.php?id=1665303",
+          "dzieci": [
+            {
+              "typ": "link",
+              "etykieta": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-18-01-2026-r-12-15-13-00/720b2480cd5f94a2ae4a83006932b629",
+              "href": "https://ahe.clickmeeting.com/dyzur-on-line-z-dr-dorota-eichstaedt-18-01-2026-r-12-15-13-00/720b2480cd5f94a2ae4a83006932b629",
+              "href_moodle": null,
+              "dzieci": []
+            }
+          ]
+        },
+        {
+          "typ": "podstrona",
+          "etykieta": "Webinar, 14.12.2025r, godz. 12.00",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Webinar, 14.12.2025r, godz. 12.00---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/clickmeeting/view.php?id=1667959",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Webinar, 14.12.2025r, godz. 12.00 - Video 1.mp4",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Webinar, 14.12.2025r, godz. 12.00 - Video 1---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.mp4",
+              "href_moodle": "https://mediaserver.ahe.lodz.pl/video/play.php?id=5372777",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        },
+        {
+          "typ": "plik",
+          "etykieta": "Cz. Miłosz",
+          "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/adodot,+{$userGroup},+K.+Pietrych (1)---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668037",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "adodot,+{$userGroup},+K.+Pietrych (1).pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/adodot,+{$userGroup},+K.+Pietrych (1)---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668037",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "tytul": "Etap 1",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451944",
+      "aktywnosci": [
+        {
+          "typ": "podstrona",
+          "etykieta": "Dramaturgia po 1989 roku - materiały z wykładu",
+          "href": "C:\\Users\\barte\\AI\\Cloude Code\\testy 2 - przed arch plikiow — kopia pod try 2\\zrodla\\other\\Polska literatura najnowsza 1 - Wyklad [wyklad]\\Semestr 1 zima 2025-2026\\podstrony\\Dramaturgia po 1989 roku - materialy z wykladu---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.html",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/assign/view.php?id=1645103",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Teatr po 1989 roku.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Teatr po 1989 roku---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "dzieci": []
+            }
+          ],
+          "zmieniony": true,
+          "nowy": true
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "tytul": "Etap 2",
+      "href_moodle": "https://platforma.ahe.lodz.pl/course/section.php?id=451945",
+      "aktywnosci": [
+        {
+          "typ": "plik",
+          "etykieta": "T. Różewicz",
+          "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Dakowicz-Poeta_(bez)religijny_oa---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+          "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668036",
+          "dzieci": [
+            {
+              "typ": "plik",
+              "etykieta": "Dakowicz-Poeta_(bez)religijny_oa.pdf",
+              "href": "/zrodla/merytoryczne/Polska literatura najnowsza 1 - Wyklad [wyklad]/Semestr 1 zima 2025-2026/Dakowicz-Poeta_(bez)religijny_oa---Polska literatura najnowsza 1 - Wyklad [wyklad]---Semestr 1 zima 2025-2026.pdf",
+              "href_moodle": "https://platforma.ahe.lodz.pl/mod/resource/view.php?id=1668036",
+              "dzieci": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aktualny": false
+}

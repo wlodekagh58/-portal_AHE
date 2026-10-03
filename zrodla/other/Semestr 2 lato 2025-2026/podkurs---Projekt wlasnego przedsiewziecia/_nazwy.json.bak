@@ -1,0 +1,32 @@
+{
+  "09b89276cb3db0d6": {
+    "rodzic": "Moduł 1. Praca projektowa — podstawowe założenia",
+    "dziecko": "Modul_1_Praca_projektowa_-_podstawowe_zalozenia.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 1 — B to A po sanityzacji, różnice tylko w diakrytykach i separatorach"
+  },
+  "ca7976ee05d80ab4": {
+    "rodzic": "Moduł 2. Analiza strategiczna i plan marketingowy",
+    "dziecko": "Modul_2_Analiza_strategiczna_i_plan_marketingowy.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "Reguła 1 — B to A po sanityzacji (diakrytyki, spacje→podkreślniki, rozszerzenie)."
+  },
+  "d135541431f65fea": {
+    "rodzic": "Moduł 3. Plan organizacji i zarządzania",
+    "dziecko": "Modul_3_Plan_organizacji_i_zarzadzania.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 1 — nazwa pliku to sama A po sanityzacji."
+  },
+  "2c7abee13afe69a8": {
+    "rodzic": "Moduł 4. Plan finansowy",
+    "dziecko": "Modul_4_Plan_finansowy.pdf",
+    "werdykt": "ukryj",
+    "uzasadnienie": "reguła 1"
+  },
+  "b70a0efecea0813a": {
+    "rodzic": "Zadania do modułu 2",
+    "dziecko": "projekt_wlasnego_przedsiewziecia_zadania_modul_2.pdf",
+    "werdykt": "pelna",
+    "uzasadnienie": "reguła 8, nazwa pliku niesie temat \"wlasnego przedsiewziecia\" nie wskazany w A"
+  }
+}
